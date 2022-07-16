@@ -1,4 +1,4 @@
-# gazebo_fails_to_load-solution
+# the_solution_of_gazebo_fails_to_load
 Gazebo sometimes has a black screen or freezes problem,here is a solution.
 ## solution
 ### firstly you should create a workspace 
